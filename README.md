@@ -7,9 +7,12 @@ Welcome to the Rock Paper Scissors game! This project brings the classic game to
 Features
 
 User Interaction: Choose between rock, paper, or scissors with a simple click.
+
 Dynamic Gameplay: Engage in a dynamic gameplay experience with JavaScript-powered logic.
+
 Sleek Design: Enjoy a sleek and intuitive user interface designed using HTML and CSS.
 Installation
+
 To run the game locally on your machine, follow these steps:
 
 Usage
