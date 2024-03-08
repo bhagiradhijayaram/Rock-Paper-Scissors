@@ -22,6 +22,8 @@ Find out if you've won, lost, or tied.
 Have fun playing and testing your luck!
 
 Acknowledgements
+
 Built with ❤️ by Bhagheeradhi Jayaram
+
 Inspired by the classic game of Rock Paper Scissors
 
